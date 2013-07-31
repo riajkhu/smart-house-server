@@ -21,7 +21,9 @@ import java.util.concurrent.LinkedBlockingQueue;
 import com.mysql.jdbc.Connection;
 import com.mysql.jdbc.PreparedStatement;
 import com.sun.net.httpserver.Filter;
+
 /*
+* author Sarder Fakhrul Abedin
 		* This class is responsible for allthe connections with the client and client command process
 		*/
 
