@@ -1,0 +1,1 @@
+Building an interactive house that can be controlled by android phone, desktop application and web application.To handle different client request as a server  Multithreading concept and Communication Protocol (TCP).  Database was used to track down the number of elements in the house and their states to pass information to different clients through server.
