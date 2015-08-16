@@ -1128,7 +1128,7 @@ public String splitCommand(String command){
 		first = commandToken
 				.nextToken();
 		 second = commandToken
-				.nextToken();
+			.nextToken();
 
 		third = commandToken
 				.nextToken();
